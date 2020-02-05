@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Numbers_SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 762306e716a0c6f48ba2055c60769957, type: 3}
+    - {fileID: 2800000, guid: 2e5488806ef0f724baccda74ea803dc1, type: 3}
+    - {fileID: 2800000, guid: 1b1e27508e003004cb1bf3c13b552f69, type: 3}
+    - {fileID: 2800000, guid: 9de3c1495a0502846a2076c7b6f65878, type: 3}
+    - {fileID: 2800000, guid: eb22a0db161d0534db8681d5fd610d4b, type: 3}
+    - {fileID: 2800000, guid: 6c90dc6962318d641bc87d7401822194, type: 3}
+    - {fileID: 2800000, guid: b310d06873437dd4d8da36e482d45bf2, type: 3}
+    - {fileID: 2800000, guid: 3e605593a8a1a5140ad148a62dbe4f1f, type: 3}
+    - {fileID: 2800000, guid: 949afbab60e016f48a03cb8ffe1a2b46, type: 3}
+    - {fileID: 2800000, guid: e579e920212a40b48b558d8d126f1f23, type: 3}
+    totalSpriteSurfaceArea: 15237487
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e579e920212a40b48b558d8d126f1f23, type: 3}
+  - {fileID: 21300000, guid: 1b1e27508e003004cb1bf3c13b552f69, type: 3}
+  - {fileID: 21300000, guid: 2e5488806ef0f724baccda74ea803dc1, type: 3}
+  - {fileID: 21300000, guid: 3e605593a8a1a5140ad148a62dbe4f1f, type: 3}
+  - {fileID: 21300000, guid: 762306e716a0c6f48ba2055c60769957, type: 3}
+  - {fileID: 21300000, guid: b310d06873437dd4d8da36e482d45bf2, type: 3}
+  - {fileID: 21300000, guid: 9de3c1495a0502846a2076c7b6f65878, type: 3}
+  - {fileID: 21300000, guid: 6c90dc6962318d641bc87d7401822194, type: 3}
+  - {fileID: 21300000, guid: 949afbab60e016f48a03cb8ffe1a2b46, type: 3}
+  - {fileID: 21300000, guid: eb22a0db161d0534db8681d5fd610d4b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - m9
+  - m2
+  - m1
+  - m7
+  - m0
+  - m6
+  - m3
+  - m5
+  - m8
+  - m4
+  m_Tag: Numbers_SpriteAtlas
+  m_IsVariant: 0
